@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "wineName": "Silver Oak",
+        "winery": "Silver Oak Vinyards",
+        "year": 2010,
+        "type": "Cabernet Souvignon",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "productId": 2,
+        "wineName": "sdfsdf",
+        "winery": "asdfsadf",
+        "year": 2014,
+        "type": "Cabernet Souvignon",
+        "price": 30.55,
+        "starRating": 4.0,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "productId": 3,
+        "wineName": "asfdsdf",
+        "winery": "asdfsadf",
+        "year": 2009,
+        "type": "Cabernet Souvignon",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "productId": 4,
+        "wineName": "Silver Oak",
+        "winery": "Silver Oak Vinyards",
+        "year": 2010,
+        "type": "Cabernet Souvignon",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "productId": 5,
+        "wineName": "Silver Oak",
+        "winery": "Silver Oak Vinyards",
+        "year": 2010,
+        "type": "Cabernet Souvignon",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    }
+]

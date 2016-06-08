@@ -1,0 +1,12 @@
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        {{pageTitle}}
+    </div>
+    <p>Wine name: {{(wine | async)?.wineName}}</p>
+    <p>Winery: {{(wine | async)?.winery}}</p>
+    <p>Year: {{(wine | async)?.year}}</p>
+    <p>Type:  {{(wine | async)?.type}}</p>
+
+</div>
+
+<a href="" class="btn btn-default" (click)='onBack()'>Go Back </a>
